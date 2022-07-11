@@ -13,7 +13,7 @@ The Following Video Visualizes How K-Means Is Actually Working:<br/>
     step 2-for epoch 1:N DO:<br/>
         For Each Sample:<br/>
             Find The Nearest Neuron To The Data Sample<br/>
-            Update The Weights Of The Winner Neuron And Neighbours Based On The Choosen Topology And Neighbourhood Radius<br/>
+            Update The Weights Of The Winner Neuron And Neighbours Based On The Chosen Topology And Neighbourhood Radius<br/>
 The Following Video Visualizes How Self Organizing Map Is Actually Working:<br/>
 ![SOM](https://user-images.githubusercontent.com/106836722/178313808-84f0bb9c-3802-4192-8416-e30c8c87a446.gif)
 
