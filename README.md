@@ -6,6 +6,7 @@ This Repo Contains Implementation Of Different Clustering Methods From Scratch U
 2-Update Centroids : Center Of Each Cluster Is The Mean Of The All Samples Which Belongs To The Corresponding Cluster<br/>
 3-Repeat Until Convergence<br/>
 The Following Video Visualizes How K-Means Is Actually Working:<br/>
-https://user-images.githubusercontent.com/106836722/178307037-435f5757-24ce-4490-aee4-c39c2b1c76a4.mp4
+![k-menas](https://user-images.githubusercontent.com/106836722/178311597-e59a8e10-7734-42f0-bd20-2704ae3d66a6.gif)
+
 
 
